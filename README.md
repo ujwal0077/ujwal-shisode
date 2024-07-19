@@ -10,7 +10,7 @@ A passionate Frontend developer from India. I’m currently learning React.js, a
 🎓 I'm currently pursuing my 4th year in BTech IT.<br>
 🌐 You can check out my [personal portfolio](https://ujwal-shisode-portfolio.vercel.app/).<br>
 🔭 I’m currently working on some JS and AI-ML projects.<br>
-⚡ Fun fact: I love playing football.
+⚡ I love playing football,reading tech articles and watching movies in free time.
 
 
 # 🧑‍💻 Tech Stack:
